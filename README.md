@@ -569,10 +569,3 @@ cp .env.example .env
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-For questions or feedback, reach out on [GitHub](https://github.com/hoangsonww).
